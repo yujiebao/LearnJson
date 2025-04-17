@@ -1,0 +1,16 @@
+{
+	"PlayerInfo":
+	{
+		"name": "",
+		"atk":0,
+		"def":0,
+		"movespeed":0.0,
+		"roundSpeed":0.0,
+		"weapon":{"id":0,"num":0},
+		"listInt":[0,0,0],
+		"itemDic":{"1":{"id":0,"num":0},"2":{"id":0,"num":0}},
+		"itemDic2":{"key1":{"id":0,"num":0},"key2":{"id":0,"num":0}},
+		"privateI":1,
+		"protectedI":2
+	}
+}
